@@ -1,5 +1,6 @@
 # autoHotkey-redragon-ashes-K626-KB-B
-Remapemento de teclas do teclado Redragon Ashe K626-KB-B, para mudar comportamento de teclas.
+
+Remapeamento de teclas do teclado Redragon Ashe K626-KB-B, para mudar comportamento de teclas.
 
 # 💡 Remapeamento de Teclas com AutoHotkey
 
@@ -21,21 +22,27 @@ Este repositório contém um script de **remapeamento avançado de teclado** usa
 
 ## 🧩 Recursos implementados
 
-| Tecla               | Resultado              |
-|--------------------|------------------------|
-| `1` a `0`          | `!@#$%¨&*()`           |
-| `Shift + 1` a `0`  | `1 2 3 4 5 6 7 8 9 0`   |
-| `ESC`              | `"` (aspas duplas)     |
-| `Shift + ESC`      | `'` (aspas simples)    |
-| `Ctrl direito + ESC` | `ESC` original         |
-| `Ctrl + Alt + R`   | Recarrega o script     |
+| Tecla                  | Resultado             |
+|-----------------------|-----------------------|
+| `1` a `0`             | `!@#$%¨&*()`          |
+| `Shift + 1` a `0`     | `1 2 3 4 5 6 7 8 9 0`  |
+| `ESC`                 | `"` (aspas duplas)    |
+| `Shift + ESC`         | `'` (aspas simples)   |
+| `Ctrl direito + ESC`  | `ESC` original        |
+| `Ctrl + Alt + R`      | Recarrega o script    |
 
 ---
 
 ## 📦 Arquivos
 
-- `RemapAspas.ahk`: Script principal
+- `RemapASHE.ahk`: Script principal
 - `testa_teclado.py`: Script Python para testar se o remapeamento está funcionando
+
+---
+
+## 🚀 Última versão
+
+🔗 Baixe a versão mais recente na página de [Releases do GitHub](https://github.com/Zuperney/autoHotkey-redragon-ashes-K626-KB-B/releases/tag/auto-hot-key)
 
 ---
 
@@ -45,7 +52,7 @@ Este repositório contém um script de **remapeamento avançado de teclado** usa
 Baixe em: [https://www.autohotkey.com/](https://www.autohotkey.com/)
 
 ### 2. Execute o script
-Dê duplo clique no arquivo `RemapAspas.ahk`. O remapeamento entrará em vigor imediatamente.
+Dê duplo clique no arquivo `RemapASHE.ahk`. O remapeamento entrará em vigor imediatamente.
 
 ### 3. (Opcional) Execute o validador Python
 ```bash
